@@ -1,7 +1,7 @@
-## Data Analytics Capstone Project
-## Tanner Young
-# https://github.com/TannerYoung13/capstone-young
-# https://www.overleaf.com/read/bhpmysqkxcfy#1dc6f2
+# Data Analytics Capstone Project
+# Tanner Young
+## https://github.com/TannerYoung13/capstone-young
+## https://www.overleaf.com/read/bhpmysqkxcfy#1dc6f2
 
 # Overview
 This project involves analyzing and predicting life expectancy using a dataset from Kaggle. The project includes data cleaning, exploratory data analysis (EDA), and applying machine learning techniques to make predictions.
